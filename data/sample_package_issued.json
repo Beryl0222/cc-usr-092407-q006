@@ -1,0 +1,16 @@
+{
+  "event_id": "sample-008-002",
+  "kind": "PACKAGE_ISSUED",
+  "occurred_at": "2026-09-21T10:00:00+08:00",
+  "subject_id": "pkg-demo-001",
+  "payload": {
+    "project_id": "proj-overseas-2026",
+    "approved_by": "国际合作负责人（化名）",
+    "sources": ["demo-008"],
+    "translations": ["tr-demo-001"],
+    "purposes": ["overseas_promotion"],
+    "recipients": ["org-frankfurt-01"],
+    "valid_until": "2027-03-31T23:59:59+08:00",
+    "note": "虚构资料，仅用于格式核对"
+  }
+}

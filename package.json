@@ -5,7 +5,7 @@
   "type": "module",
   "description": "非遗跨境展演知识边界领域资料",
   "scripts": {
-    "build": "node --check src/heritage_exchange_boundary.js && node --check tests/contract.test.js",
+    "build": "node --check src/heritage_exchange_boundary.js && node --check src/knowledge_license_service.js && node --check tests/contract.test.js && node --check tests/license_service.test.js",
     "test": "node --test"
   }
 }
